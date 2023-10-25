@@ -122,16 +122,20 @@
 
 ## [CASA 10](https://www.airbnb.com.br/rooms/724629029716542208?adults=8&check_in=2023-11-18&check_out=2023-11-20&source_impression_id=p3_1698182565_px4q8qNxm74e%2Fgjp&previous_page_section_name=1000&federated_search_id=6b25f76b-0b00-4c16-85cd-945b24ae698b)
 
+**NOTA 7,5**
+
 * 250 por noite
 * 120 de taxa de limpeza
 * 90 de taxa de serviço
 * 6 quarteirões da praia
 * ATÉ 8 PESSOAS
-* Tem piscina e churrasqueira
+* Tem piscina (CONDOMINIO) e churrasqueira (própria)
 * Tem vaga para estacionar (não especifica quantidade)
 * **Total para 2 noites R$710**
 
 ## [CASA 11](https://www.airbnb.com.br/rooms/52600176?adults=8&check_in=2023-11-18&check_out=2023-11-20&source_impression_id=p3_1698182565_yo%2FM8J7DuYQ8idWT&previous_page_section_name=1000&federated_search_id=6b25f76b-0b00-4c16-85cd-945b24ae698b)
+
+**NOTA 9,5/10** (Muito top, linda e parece mt limpa. Vira 10 se a área da churrasqueira for própria e n do condominio)
 
 * 489 por noite
 * 230 de taxa de limpeza
@@ -142,6 +146,8 @@
 * **Total para 2 noites R$1.384**
 
 ## [CASA 12](https://www.airbnb.com.br/rooms/21331608?adults=8&check_in=2023-11-18&check_out=2023-11-20&source_impression_id=p3_1698182565_FzsrAUpSCaHR1NEj&previous_page_section_name=1000&federated_search_id=6b25f76b-0b00-4c16-85cd-945b24ae698b)
+
+**NOTA 6/10** (barato e perto da praia, mas os colchões parecem finos e pra 2 noites talvez a gente se incomode)
 
 * 210 por noite
 * 140 de taxa de limpeza
@@ -154,6 +160,8 @@
 
 ## [CASA 13](https://www.airbnb.com.br/rooms/994944727193534371?adults=8&check_in=2023-11-18&check_out=2023-11-20&source_impression_id=p3_1698182565_7K0ZmW3ls0O4kOAo&previous_page_section_name=1000&federated_search_id=6b25f76b-0b00-4c16-85cd-945b24ae698b)
 
+**Nota 7,5/10** (Verificar quanto ao uso de churrasqueira e piscina pois pertence ao condomínio)
+
 * 376 por noite
 * 94 de taxa de limpeza
 * 7 quarteirões da praia
@@ -164,6 +172,8 @@
 
 ## [CASA 14](https://www.airbnb.com.br/rooms/764701274002328347?adults=8&check_in=2023-11-18&check_out=2023-11-20&source_impression_id=p3_1698182565_v3DJwZYxDAPU8cLA&previous_page_section_name=1000&federated_search_id=6b25f76b-0b00-4c16-85cd-945b24ae698b)
 
+**NOTA 9,5/10** (apto mt top, reduzi a nota pelo preço para priorizar os que são mais em conta)
+
 * 563 por noite
 * 250 de taxa de limpeza
 * 200 de taxa de serviço
@@ -172,17 +182,9 @@
 * Tem vaga para estacionar (2 vagas)
 * **Total para 2 noites R$1.575**
 
-## [CASA 15](https://www.airbnb.com.br/rooms/759458189688322276?adults=8&check_in=2023-11-18&check_out=2023-11-20&source_impression_id=p3_1698182565_wrLfDkoWcGftZu9Y&previous_page_section_name=1000&federated_search_id=6b25f76b-0b00-4c16-85cd-945b24ae698b)
+## [CASA 15](https://www.airbnb.com.br/rooms/30278948?adults=8&check_in=2023-11-18&check_out=2023-11-20&source_impression_id=p3_1698182565_h2w3f%2FVh6Zxbf5xF&previous_page_section_name=1000&federated_search_id=6b25f76b-0b00-4c16-85cd-945b24ae698b)
 
-* 239 por noite
-* 140 de taxa de limpeza
-* 90 de taxa de serviço
-* 6 quarteirões da praia
-* ATÉ 8 PESSOAS
-* Tem vaga para estacionar (2 vagas)
-* **Total para 2 noites R$708**
-
-## [CASA 16](https://www.airbnb.com.br/rooms/30278948?adults=8&check_in=2023-11-18&check_out=2023-11-20&source_impression_id=p3_1698182565_h2w3f%2FVh6Zxbf5xF&previous_page_section_name=1000&federated_search_id=6b25f76b-0b00-4c16-85cd-945b24ae698b)
+**NOTA 8,5/10** (sobe pra 9 se a decoração do Mickey n for assustadora pra você)
 
 * 350 por noite
 * 100 de taxa de limpeza
@@ -193,7 +195,9 @@
 * Piscina no condomínio
 * **Total para 2 noites R$916**
 
-## [CASA 17](https://www.airbnb.com.br/rooms/29443945?adults=8&check_in=2023-11-18&check_out=2023-11-20&source_impression_id=p3_1698183943_eTgZB1CfQ3BTDz8W&previous_page_section_name=1000&federated_search_id=cf88c0b4-2e7d-48c7-8cc9-4e6751c9b025)
+## [CASA 16](https://www.airbnb.com.br/rooms/29443945?adults=8&check_in=2023-11-18&check_out=2023-11-20&source_impression_id=p3_1698183943_eTgZB1CfQ3BTDz8W&previous_page_section_name=1000&federated_search_id=cf88c0b4-2e7d-48c7-8cc9-4e6751c9b025)
+
+**NOTA 8,7/10** (Simples, mas bem localizado, barato e os colchões parecem ótimos)
 
 * 285 por noite
 * 100 de taxa de limpeza
@@ -202,13 +206,3 @@
 * ATÉ 9 PESSOAS
 * Tem vaga para estacionar (1)
 * **Total para 2 noites R$767**
-
-## [CASA 18](https://www.airbnb.com.br/rooms/715454721242771488?adults=8&check_in=2023-11-18&check_out=2023-11-20&source_impression_id=p3_1698183972_FPZc9XtuNwhA%2Fq5x&previous_page_section_name=1000&federated_search_id=cf88c0b4-2e7d-48c7-8cc9-4e6751c9b025)
-
-* 300 por noite
-* 130 de taxa de limpeza
-* 106 de taxa de serviço
-* 5 minutos da praia
-* ATÉ 8 PESSOAS
-* Tem vaga para estacionar (2)
-* **Total para 2 noites R$836**
